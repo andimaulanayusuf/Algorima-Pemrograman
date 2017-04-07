@@ -1,7 +1,7 @@
-void faktorial(int nilai) {
+void faktorial(int n) {
 	long hasil; 
 		hasil = 1;
-	for(bilangan = 1; bilangan <= nilai; bilangan++) {
+	for(bilangan = 1; bilangan <= n; bilangan++) {
          hasil = hasil * bilangan;
          
      }
